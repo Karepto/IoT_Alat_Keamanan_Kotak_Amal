@@ -52,7 +52,7 @@ int gpsMaxSatellites = 0;
 const char* ssid = "Xiaomi 13T renjak";
 const char* password = "12345678";
 
-#define BOT_TOKEN "7764421612:AAHJYHSp1i1F-L3zuAs6VA7TP2RqZvh2MFg"
+#define BOT_TOKEN ""
 
 WiFiClientSecure secured_client;
 UniversalTelegramBot bot(BOT_TOKEN, secured_client);
